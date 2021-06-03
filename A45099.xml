@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble representation and remonstrance of divers free-men of England well-affected to Parliaments, to the Right Honourable the Councel of Officers of the Army</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45099</idno><idno type="EEBO-CITATION">9859345</idno>
+  <idno type="VID">44262</idno>
+  <idno type="EEBO-PROQUEST">2248523486</idno>
+  
+            <idno type="STC">Wing H3635</idno>
+            <idno type="STC">ESTC R27437</idno>
+            <idno type="OCLC">09859345</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1361:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble representation and remonstrance of divers free-men of England well-affected to Parliaments, to the Right Honourable the Councel of Officers of the Army</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44262:1"/>
+            <p>The Humble REPRESENTATION AND REMONSTRANCE Of Divers FREE-MEN of <hi>ENLAND,</hi> Well-Affected to PARLIAMENTS; To the Right Honorable the Coun<g ref="char:EOLhyphen"/>cel of Officers of the ARMY.</p>
+            <p>
+               <hi>London</hi> Printed, <hi>Anno Dom.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:44262:2"/>
+            <pb n="1" facs="tcp:44262:2"/>
+            <head>The Humble Representation and Remonstrance of Divers Freemen of <hi>England,</hi> well affected to Parliaments.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ivers Freemen of <hi>England,</hi> well affected to Parliaments and the Army, under<g ref="char:EOLhyphen"/>derstanding that several designs and Petitions are on foot, for bringing in again those Gentlemen who lately sate as in Parliament, and as Mem<g ref="char:EOLhyphen"/>bers of the Long Parliament, do Remonstrate to this Honorable Councel, that they hum<g ref="char:EOLhyphen"/>bly apprehend that it cannot stand with the Safety and Rights of the People of this Commonwealth, that those Gentlemen should be again assembled as a Parlia<g ref="char:EOLhyphen"/>ment, and that for the following Reasons.</p>
+            <list>
+               <item n="1">I. Because for many years they have exercised Arbi<g ref="char:EOLhyphen"/>trary and Tyrannical Government over the Conscien<g ref="char:EOLhyphen"/>ces, Lives, Liberties and Estates of their Brethren, do<g ref="char:EOLhyphen"/>ing the same things, and worse then those, for which themselves formerly impeached and put to death most considerable persons in these Nations.</item>
+               <item n="2">II. Because most of the things done by them, have been contrary to the known Laws and Customes of the Nations, without the least shadow or colour of lawful authority.</item>
+               <item n="3">III. Because contrary to the known Rights and Li<g ref="char:EOLhyphen"/>bertyes of the people, they judged Causes of private
+<pb n="2" facs="tcp:44262:3"/> right and title, and that upon report onely from their Committees, without hearing pa<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> or <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them<g ref="char:EOLhyphen"/>selves, but by others, though <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Appe<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay▪ <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their sentence in case of life, liberty, or property, nor any Review or Negative upon them, or means of re<g ref="char:EOLhyphen"/>ctifying any mistake how fatal so ever.</item>
+               <item n="4">IV. Because they have imposed heavy burdens up<g ref="char:EOLhyphen"/>on the people, and shared a great part thereof among themselves and their creatures, as the payment of large sums lent by their Members to furnish the late King against the <hi>Scots,</hi> twelve hundred pounds a year to <hi>Vane,</hi> two thousand pounds a year to <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thousand pounds a year to Bradshawe &amp; also the like to divers others who never fought a stroke in this Cause.</item>
+               <item n="5">V. Because the issues of their Government for the most part have been wars, overturnings, confusions, slaughters, burnings, impoverishments, distructions, la<g ref="char:EOLhyphen"/>mentations, and all the sad companions of civil dis<g ref="char:EOLhyphen"/>cords.</item>
+               <item n="6">VI. Because their pride and oppression, both in their Countries and in their Thrones at <hi>Westminster</hi> was in<g ref="char:EOLhyphen"/>tollerable.</item>
+               <item n="7">VII. Because divers of them are known to be scan<g ref="char:EOLhyphen"/>dalously and abhominably vitious and wicked in their conversations and opinions, and very few of them have spent one drop of blood in this cause.</item>
+               <item n="8">VIII. Because at their late sittings, there seldom met above fifty or sixty persons, whereas a full Parliament consisteth of above five hundred.</item>
+               <item n="9">IX. Because many places, and several Counties of <hi>England,</hi> had no Representatives at all for them in that number contrary to all right and custome.</item>
+               <item n="10">
+                  <pb n="3" facs="tcp:44262:3"/>X. Because these few Gentlemen were so ambitious of power in their own hands that they would not fill up the House, and yet took upon them, though so small a number to exercise the whole Legislative, Ju<g ref="char:EOLhyphen"/>dicial, and Executive Power in the same few hands in one single House over three great Nations.</item>
+               <item n="11">XI. Because they disingeniously abused the privi<g ref="char:EOLhyphen"/>ledge of freedom of speech in Parliament, to the re<g ref="char:EOLhyphen"/>proaching of their brethren and friends behind their backs, and some of their fellow Members with bitter words, calling them perfidious, Traytors, Apost<g ref="char:EOLhyphen"/>ates, and the like, for no other reason, but because they assisted in the preservation of the peace, and administration of Justice under a single person when they reigned not, neither did they forbear insulting over a dead single person, to whom they would not have given a distastful word in his life time.</item>
+               <item n="12">XII. Because they used to condemne others, and boast of their own righteousness, when they knew more wickedness by themselves, then they know by any others.</item>
+               <item n="13">XIII. Because they have been ungrateful and unjust, as is known by their dealings with <hi>Essex, Waller, Balsour,</hi> and many others, the excluded Members, and the whole Army in those times, and lately with the Commissioners of the Seal, the Judges, and civil Officers, and as to Military Officers, with <hi>Fleetwood, Lambert, Disbrough, Berry,</hi> several other Field Officers, and neer two hun<g ref="char:EOLhyphen"/>dred other Officers, whom they would reward for their faithful hazardous services done for these Gentle<g ref="char:EOLhyphen"/>men with others, by cashiering and exposing them to the rage of a subdued enemy, and this without hearing them, or any cause alleadged, but their good pleasure for so doing.</item>
+               <item n="14">
+                  <pb n="4" facs="tcp:44262:4"/>XIV. Because several of these Gentlemen have de<g ref="char:EOLhyphen"/>clared themselves publikely in the House as offended with almost all the people of this Commonwealth, af<g ref="char:EOLhyphen"/>firming that not only the Cavaliers, but the Ministers, Lawyers, Presbyterians, Independants, Anabaptists, and in effect all but themselves and their associates, to be a corrupt interest and unholy.</item>
+               <item n="15">XV. Because it is impossible for them ever to be re<g ref="char:EOLhyphen"/>consiled to this Army who have so highly offended them, for which cause they threaten and will certainly labor to execute revenge and distruction upon them, and thereby deliver over all the good people of this Commonwealth into the hands of an inraged enemy, and which is worse, betray our Libertyes both as men and Christians.</item>
+               <item n="16">XVI. Because those Gentlemen if they sit again will probably make themselves a perpetual Parliament, or Oligarchy, some of them having publickly declared their resolution for the same.</item>
+               <item n="17">XVII. Because the Animosities of <hi>Hasterige</hi> and his party are so high, that if they return to power, there will be no end of their revenge, nor of those Tyranni<g ref="char:EOLhyphen"/>cal oppressions, whereof the Bishoprick as well as o<g ref="char:EOLhyphen"/>ther places gives too much testimony.</item>
+               <item n="18">XVIII. Because it may be presumed that <hi>Lambert</hi> and his Brigade will take it for no great advantage to them, who have been formerly so much rebuked by them, and for so little cause, and did not tamely sit down by it.</item>
+               <item n="19">XIX. Because the return of these Gentlemen to pow<g ref="char:EOLhyphen"/>er, would be a ready means to further the return of <hi>Charles Steward</hi> to the Crown, there being multitudes of disobliged injured persons by these Gentlemen, who will much rather bring in <hi>Charles Steward,</hi> and submit
+<pb n="5" facs="tcp:44262:4"/> to his Government, then to the insolent Tyranny of fifty or sizty of their equals, or of an Army.</item>
+               <item n="20">XX. Because these Gentlemen labor by raising Tu<g ref="char:EOLhyphen"/>mults and Insurrections, by disturbing the publique peace, and by raising a new civil War, wherein some of them do now personally appear, rather then they will endure to be out of command and domineering o<g ref="char:EOLhyphen"/>ver their brethren.</item>
+               <item n="21">XXI. Because these Gentlemen cannot make a law<g ref="char:EOLhyphen"/>ful Parliament, in regard (as divers of themselves in Parliament acknowledged) that the long Parliament was undoubtedly dissolved, if not by the late Kings death, yet by the new Elections of the peoples Representa<g ref="char:EOLhyphen"/>tives to serve in Parliament for the same Counties and places, for which these Gentlemen were formerly cho<g ref="char:EOLhyphen"/>sen, and their Commissions determined by the peoples choice of others to serve in their places.</item>
+            </list>
+            <p>The Remonstrants are not ignorant that the foundati<g ref="char:EOLhyphen"/>ons of all Commonwealths have been laid from Milita<g ref="char:EOLhyphen"/>ry power, and that it will be more honorable for the Army then for any others to advance and obey the civil authority, in order whereunto, and upon the reasons before expressed, the Remonstrants humbly desire this honorable Councel,</p>
+            <list>
+               <item>That those few Gentlemen late Members of the Long Parliament may not be re-assembled, but that a new full Parliament may be chosen, consisting of two As<g ref="char:EOLhyphen"/>semblies, the Elections to be by those who have not forfeited this Priviledge, and no other distinction to be but of sober or not sober men.</item>
+               <item>That particular Forms and regulations be remitted to the new Parliament.</item>
+               <pb n="6" facs="tcp:44262:5"/>
+               <item>That <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> away without satisfa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon his death, and then as <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by Rent or Land upon the suc<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</item>
+               <item>That liberty of conscience be given to all good Christians, with equal protection and incouragement, and that the new Parliament be forthwith called.</item>
+            </list>
+            <p>In the procuring of these rights, if any shall dawb with untempered Morter, the Lord will blast them, if you shall act herein sincerely, the Remonstrants with their lives and fortunes will be ready to assist you against all opposers and tyranny under Oligarchy, Roy<g ref="char:EOLhyphen"/>alty, Long Parliament or any other shape: posterity will have cause to bless the Lord for you, and the God of truth will prosper your integrity.</p>
+            <closer>
+               <hi>For which your Remonstrants shall ever pray,</hi> &amp;c.</closer>
+            <pb facs="tcp:44262:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
